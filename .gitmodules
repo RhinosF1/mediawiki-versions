@@ -1,0 +1,4 @@
+[submodule "w"]
+	path = w
+	url = https://github.com/miraheze/mediawiki
+	branch = REL1_36
